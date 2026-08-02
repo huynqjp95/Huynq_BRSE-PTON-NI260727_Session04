@@ -1,0 +1,10 @@
+.red-text-external{
+    color: red;
+}
+#box-external{
+    background-color:rgb(247, 195, 127) ;
+    border-left: 10px solid rgb(151, 86, 0);
+}
+#box-external>p{
+    padding: 20px;
+}

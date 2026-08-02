@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+h1{
+    text-align: center;
+    line-height: 1.5;
+    font-size: 30px;
+    color: aliceblue;
+    background-color:rgb(32, 25, 25);
+}
+p{
+    text-align: center;
+}
+img{
+    width: 400px;
+}
